@@ -95,6 +95,4 @@
   Parent.type='test';
 
   console.log('静态属性',Parent.type);
-
-
 }
